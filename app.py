@@ -13,9 +13,11 @@ def side_menu():
     except NameError:
         print("Some problem with file...")
 
-    page = st.sidebar.selectbox("Explore Or Predict Or Else", ("Understanding the Data", "Compare Models", "Predict"))
+    page = st.sidebar.selectbox("Explore Or Predict Or Else", ("Home","Understanding the Data", "Compare Models", "Predict"))
 
-    if page == "Understanding the Data":
+    if page == "Home":
+        home(data)
+    elif page == "Understanding the Data":
         show_explore_page(data)
     elif page == "Compare Models":
         data.dropna(inplace=True)

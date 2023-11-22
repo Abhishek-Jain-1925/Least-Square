@@ -10,19 +10,19 @@ def home(cars):
 ## Featured Cars
 
 ### Toyota Camry
-![Toyota Camry](./images/Toyota-Camry.webp)
+![Toyota Camry](images/Toyota-Camry.webp)
 - **Year:** 2020
 - **Price:** Rs.20,000
 - **KM Driven:** 30,000 km
 
 ### Honda Civic
-![Honda Civic](./images/honda-civic.webp)
+![Honda Civic](images/honda-civic.webp)
 - **Year:** 2019
 - **Price:** Rs.18,500
 - **KM Driven:** 35,000 km
 
 ### Tata Altroz
-![Tata Altroz](./images/tata-altroz.webp)
+![Tata Altroz](images/tata-altroz.webp)
 - **Year:** 2023
 - **Price:** Rs.9,00,000
 - **KM Driven:** 10,000 km

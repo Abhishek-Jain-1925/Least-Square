@@ -2,12 +2,13 @@ from utils.libraries import *
 
 
 def home(cars):
-    st.title(" Welcome to My Cars24.com - Home")
+    st.title(" Welcome to My CarzWorld.com...!!")
     st.write(
-        """
-        
+        """       
 
-## Featured Cars
+## Featured Cars |  Find Your Dream Car Today
+
+### Latest Arrivals
 
 ### Toyota Camry
 ![Toyota Camry](images/Toyota-Camry.jpg)
@@ -27,21 +28,33 @@ def home(cars):
 - **Price:** Rs.9,00,000
 - **KM Driven:** 10,000 km
 
-## Search for Cars
 
-Use the form below to search for cars:
+##Serve You The Best...!!
+
+### Popular Brands
+- [Tata](https://cars.tatamotors.com/)
+- [Mahindra](https://auto.mahindra.com/)
+- [Toyota](https://www.toyota.com/)
+- [BMW](https://www.bmw.com/en/index.html)
+- [Honda](https://www.honda.com/)
+- [Audi](https://www.audiusa.com/us/web/en.html)
 
 
+### Services Offered
+- **Sell Your Car**: Get the best value for your car hassle-free.
+- **Buy Used Cars**: Explore a wide range of certified pre-owned vehicles.
+- **Car Valuation**: Get an instant estimate of your car's worth.
+
+### Testimonials
+- "Sold my car in no time! Great service!" - Harshwardhan Patil
+- "Best place to find quality used cars!" - Hardik Kothari
 
 ### About Us
-
+CarzWorld is your go-to destination for buying and selling used cars. We provide a seamless experience for car enthusiasts, offering trusted services and top-notch customer support.
 We are a trusted car dealership dedicated to helping you find the perfect vehicle.
 
-Contact us at [jainabhishek1925@gmail.com](mailto:jainabhishek1925@gmail.com).
 
-
+[Contact Us](mailto:jainabhishek1925@gmail.com) | [Explore More](https://www.cars24.com/)
 
         """
-    )
-
-    
+    )   

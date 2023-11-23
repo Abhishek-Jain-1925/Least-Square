@@ -57,5 +57,4 @@ We are a trusted car dealership dedicated to helping you find the perfect vehicl
 [Contact Us](mailto:jainabhishek1925@gmail.com) | [Explore More](https://www.cars24.com/)
 
         """
-    )   
-    st.footer("Made By Mr.Abhishek Sachin Jain")
+    )  

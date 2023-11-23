@@ -15,7 +15,8 @@ def side_menu():
         print("Some problem with file...")
 
     page = st.sidebar.selectbox("Explore Or Predict Or Else", ("Home","Understanding the Data", "Compare Models", "Predict"))
-
+    st.sidebar.footer("Made By Mr.Abhishek Sachin Jain")
+    
     if page == "Home":
         home(data)
     elif page == "Understanding the Data":
